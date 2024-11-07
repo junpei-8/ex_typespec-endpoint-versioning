@@ -1,3 +1,6 @@
+// Dependencies
+import "../deps.tsp";
+
 // Core Modules
 import "../_core/main.tsp";
 

@@ -1,7 +1,5 @@
 // Dependencies
-import "@typespec/http";
-import "@typespec/rest";
-import "@typespec/openapi3";
+import "./deps.tsp";
 
 // Core Modules
 import "./_core/main.tsp";
